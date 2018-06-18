@@ -1,0 +1,8 @@
+{
+    "mylist": [{
+        "id": 1,
+        "name": "angular",
+        "autor": "google",
+        "price": 500
+    }]
+}
