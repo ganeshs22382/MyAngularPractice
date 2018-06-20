@@ -17,7 +17,8 @@ export class MatTableComponent implements OnInit {
     "lastname",
     "email",
     "designation",
-    "department"
+    "department",
+    "action"
   ];
   employeelistdata: any = [];
 

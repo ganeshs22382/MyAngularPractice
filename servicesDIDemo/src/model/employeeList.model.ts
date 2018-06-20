@@ -3,5 +3,7 @@ export class employeeList {
     public lastname: string,
     public email: any,
     public designation: string,
-    public department: string){}
+    public department: string,
+    public action: any){}
+    
 }
